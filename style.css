@@ -1,0 +1,35 @@
+body {
+	background-color: blue; 
+}
+
+h1 {
+	color: red;
+	font-family: arial; 
+	font-size: 28px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+ .speep {
+ 	text-align: center;
+ }
+
+.description {
+	text-align: center;
+	color: grey;
+}
+
+.se {
+	text-decoration: underline;
+	font-size: 17.5px;
+	color: grey;
+}
+
+
+ul {
+	list-style: none;
+}
+
+.selist {
+	color: red;
+}
